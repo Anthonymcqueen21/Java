@@ -5,6 +5,7 @@ class Counter [
      int increment() {
          int n=count;
          count = n + 1;
+          count = n + 2;
          return n;
      }
 }
