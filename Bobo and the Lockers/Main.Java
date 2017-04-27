@@ -1,5 +1,4 @@
 public class BoboAndTheLockers {
-    
     public static void main(String[] args) {
         // true = open; false = closed
         boolean[] lockers = new boolean[1001];
