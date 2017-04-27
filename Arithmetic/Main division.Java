@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 class Division {
     public static void main(String[] args) {
         int a, b, result;
@@ -10,14 +9,14 @@ class Division {
         a = input.nextInt();
         b = input.nextInt();
         
-        // try block
+        // try block which blocks the code for a certain time.
         
         try {
             result = a / b;
             System.out.println("Result = " + result);
         }
         
-        // catch block
+        // catch block which catches the code in time
          
         catch(ArithmeticException e) {
             System.out.println("Exception caught: Division by zero.");
