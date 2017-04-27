@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 class Computer {
     Computer() {
         System.out.println("Constructor of computer class.");
@@ -17,7 +16,6 @@ class Computer {
         your.laptop_method();
     }
 }
-
 class Laptop {
     Laptop() {
         System.out.println("Constructor of laptop class.");
