@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 class Counter [
      int count = 0;
      int increment() {
