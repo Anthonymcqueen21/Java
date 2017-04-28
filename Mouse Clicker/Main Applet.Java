@@ -3,7 +3,6 @@ import java.awt.event.*;
 import java.awt.*;
 import java.applet.*;
 import java.net.URL;
-
 public class MouseClicker extends JFrame {
     
     AudioClip click;
