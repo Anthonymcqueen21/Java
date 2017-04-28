@@ -1,8 +1,6 @@
 import java.util.Scanner;
-
 class Methods {
    // Constructor methods
-   
    Methods() {
       System.out.println("Constructor method is called to a object);
    }
