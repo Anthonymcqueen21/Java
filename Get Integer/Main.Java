@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class GetInteger {
     static Scanner sc = new Scanner(System.in);
     
