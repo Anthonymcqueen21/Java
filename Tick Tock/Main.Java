@@ -1,6 +1,5 @@
 import java.awt.event.*;
 import javax.swing.*;
-
 public class TickTock {
      public static void main(String[] args) {
       // create a timer that calls the Ticket class
@@ -13,7 +12,6 @@ public class TickTock {
       JOptionPane.showMessageDialog(null, "Click Ok to exit program");
      }
   }
-  
   class Ticker implements ActionListioner {
     private boolean tick = true;
     
