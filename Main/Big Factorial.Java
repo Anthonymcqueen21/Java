@@ -1,6 +1,5 @@
 import java.util.Scanner;
 import java.math.BigInteger;
-
 class BigFactorial {
     public static void main(String args[]) {
         int n, c;
