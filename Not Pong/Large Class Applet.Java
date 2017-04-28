@@ -4,7 +4,6 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.awt.geom.*;
 import java.util.concurrent.*;
-
 public class NotPong extends JApplet {
     
     public static final int WIDTH = 400;
@@ -22,7 +21,6 @@ public class NotPong extends JApplet {
                 0L, 20L, TimeUnit.MILLISECONDS);
     }
 }
-
 class AnimationThread implements Runnable {
     
     JApplet c;
