@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 class GrandParent {
    int a;
    
@@ -7,7 +6,6 @@ class GrandParent {
        this.a = a;
    }
 }
-
 class Parent extends GrandParent {
     int b;
     
