@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 class PrimeClass {
    private Scanner sc = new Scanner(System.in);
    public int x = getX();
