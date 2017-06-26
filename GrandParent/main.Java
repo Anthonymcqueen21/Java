@@ -8,7 +8,6 @@ class GrandParent {
 }
 class Parent extends GrandParent {
     int b;
-    
     Parent(int a, int b) {
        super(a);
        this.b = b;
@@ -18,7 +17,6 @@ class Parent extends GrandParent {
        System.out.println("Parent's b = " + b);
     }
 }
-
 class Child {
    public static void main(Strin[] args) {
         Parent object = new Parent(8, 9);
