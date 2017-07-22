@@ -6,9 +6,8 @@ class BreakWhileLoop {
         while(true) {
             System.out.println("Input an integer");
             n = input.nextInt();
-            
             if(n == 0) {
-                break;
+            break;
             }
             System.out.println("You entered " + n);
         }
