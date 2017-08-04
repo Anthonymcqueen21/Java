@@ -14,7 +14,6 @@ public class TickTock {
   }
   class Ticker implements ActionListioner {
     private boolean tick = true;
-    
     public void actionPerformed(ActionEvent event) {
     
        if (tick) {
