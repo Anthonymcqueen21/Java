@@ -1,10 +1,10 @@
 import java.util.Scanner;
 class Computer {
     Computer() {
-        System.out.println("Constructor of computer class.");
+       System.out.println("Constructor of computer class.");
     }
     void computer_method() {
-        System.out.println("Power gone! Shut down your pc...");
+       System.out.println("Power gone! Shut down your pc...");
     }
     public static void main(String[] args) {
         Computer my = new Computer();
