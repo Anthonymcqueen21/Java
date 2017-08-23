@@ -14,7 +14,7 @@ public class BoboAndTheLockers {
                 lockers[locker] = !lockers[locker];
         }
         System.out.println("Bobo is bored"
-                  + " now so hes going home.");
+        + " now so hes going home.");
         // count and list the open lockers
         String list = "";
         int openCount = 0;
