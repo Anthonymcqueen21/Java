@@ -5,6 +5,6 @@ class Counter [
     int n=count;
     count = n + 1;
     count = n + 2;
-    return n;
+return n;
      }
 }
