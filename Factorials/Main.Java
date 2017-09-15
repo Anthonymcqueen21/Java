@@ -10,7 +10,6 @@ class Factorial {
         else {
             for ( c = 1 ; c <= n ; c++)
                 fact = fact*c;
-            
             System.out.println("Factorial of");
         }
     }
