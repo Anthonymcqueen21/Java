@@ -5,7 +5,6 @@ class Factorial {
         System.out.println("Enter a specific integer");
         Scanner in = new Scanner(System.in);
         n = in.nextInt();
-        
         if( n < 0 )
             System.out.println("Number shouldnt be negative");
         else {
