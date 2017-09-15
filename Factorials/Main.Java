@@ -4,7 +4,6 @@ class Factorial {
         int n, c, fact = 1;
         System.out.println("Enter a specific integer");
         Scanner in = new Scanner(System.in);
-        
         n = in.nextInt();
         
         if( n < 0 )
