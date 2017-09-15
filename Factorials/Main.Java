@@ -2,7 +2,6 @@ import java.util.Scanner;
 class Factorial {
     public static void main(String args[]) {
         int n, c, fact = 1;
-        
         System.out.println("Enter a specific integer");
         Scanner in = new Scanner(System.in);
         
