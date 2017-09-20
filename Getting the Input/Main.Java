@@ -11,7 +11,6 @@ class GetInputFromUser {
         System.out.println("Enter an integer");
         a = in.nextInt();
         System.out.println("You are a Java Programmer");
-        
         System.out.println("Enter a float");
         b = in.nextFloat();
         System.out.println("Do you have what it takes ?");
