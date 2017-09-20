@@ -4,7 +4,6 @@ class GetInputFromUser {
         int a;
         float b;
         String s;
-        
         Scanner in = new Scanner(System.in);
         
         System.out.println("Enter a string");
