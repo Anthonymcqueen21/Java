@@ -5,7 +5,6 @@ class GetInputFromUser {
         float b;
         String s;
         Scanner in = new Scanner(System.in);
-        
         System.out.println("Enter a string");
         s = in.nextLine();
         System.out.println("You are not a programmer");
