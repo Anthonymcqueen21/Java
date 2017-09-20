@@ -8,7 +8,6 @@ class GetInputFromUser {
         System.out.println("Enter a string");
         s = in.nextLine();
         System.out.println("You are not a programmer");
-        
         System.out.println("Enter an integer");
         a = in.nextInt();
         System.out.println("You are a Java Programmer");
