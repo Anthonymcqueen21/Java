@@ -1,3 +1,4 @@
+// Using a try-catch block to input two integers in a divisional equation
 import java.util.Scanner;
 class Division {
     public static void main(String[] args) {
