@@ -1,3 +1,4 @@
+// Creating a ball class with small insults.
 public class Ball {
    public void hit() {
       
