@@ -24,6 +24,7 @@ public class BoboAndTheLockers {
                 openCount++;
                 list += i + " ";
             }
+            // System lockout and print
             System.out.println("Bob left " + openCount
                 + " lockers open.");
             System.out.println("The open lockers are: "
