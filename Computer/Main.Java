@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// Initiate a class
 class Computer {
     Computer() {
        System.out.println("Constructor of computer class.");
