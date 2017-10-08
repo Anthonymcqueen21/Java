@@ -1,4 +1,5 @@
 import java.util.*;
+// Larger integer with Scanner
 public class GetInteger {
     static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
