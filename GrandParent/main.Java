@@ -6,6 +6,7 @@ class GrandParent {
        this.a = a;
    }
 }
+// Parent extends 
 class Parent extends GrandParent {
     int b;
     Parent(int a, int b) {
