@@ -1,16 +1,17 @@
 import java.util.Scanner;
 public class GuessingGameMethod2 {
+    // Scanner class
     static Scanner sc = new Scanner(System.in);
         public static void main(String[] args) {
             System.out.println("Lets play a guessing game!");
-            
+      
             do {
                 playAround();
             } while (askForAnotherRound());
             
             System.out.println("\nThank you for playing");
         }
-        
+        // Play around
         public static void playAround() {
             
             boolean validInput;
