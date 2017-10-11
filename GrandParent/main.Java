@@ -1,7 +1,7 @@
 import java.util.Scanner;
+// Class grandparent simple integer.
 class GrandParent {
    int a;
-   
    GrandParent(int a) {
        this.a = a;
    }
