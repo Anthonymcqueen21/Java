@@ -13,7 +13,6 @@ class Language {
        Language java = new Language("Java");
        
        cpp.setName("C++);
-       
        java.getName();
        cpp.getName();
     }
