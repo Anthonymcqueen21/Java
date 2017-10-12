@@ -5,6 +5,7 @@ public class InputTest {
     public static void main(String[] args) {
        try{
           BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+           // Reading system output ignoring case
           while(true) {
               System.out.print("Enter SomeText('x' to exit):");
               String str = br.readLine();
