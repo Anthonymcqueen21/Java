@@ -1,7 +1,6 @@
 import java.util.Scanner;
 class Language {
     String name;
-    
     Language() {
        System.out.println("Constructor method called");
     }
