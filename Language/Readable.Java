@@ -4,7 +4,6 @@ class Language {
     Language() {
        System.out.println("Constructor method called");
     }
-    
     Language(String t) {
        name = t;
     }
