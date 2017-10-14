@@ -1,9 +1,9 @@
 public class DemoJava {
     public static void main(String []args) {
-       
+       // Small int a, and b
        int a;
        int b;
-       
+       // inputs that equal
        a = 10;
        b = 20;
        
