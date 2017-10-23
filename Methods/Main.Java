@@ -10,7 +10,7 @@ class Methods {
       Methods object = new Methods();
       object.nonStaticMethod();
    }
-   // Static methods
+   
    static void staticMethod() {
       System.out.println("Static method can be called without object");
    }
