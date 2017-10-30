@@ -13,7 +13,7 @@ public class MouseClicker extends JFrame {
     }
     // Mouse clicker class main integer values.
     public MouseClicker() {
-     
+     // Setting the size title with a mouse Listener
        this.setSize(400, 400);
        this.setTitle("Mouse Clicker");
        this.addMouseListener(new Clicker());
