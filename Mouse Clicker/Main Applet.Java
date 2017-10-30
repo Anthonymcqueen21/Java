@@ -8,7 +8,7 @@ public class MouseClicker extends JFrame {
     AudioClip click;
     // Main function string main
     public static void main(String[] args) {
-        
+    // Mouse clicker class
         new MouseClicker();
     }
     
