@@ -10,7 +10,7 @@ public class NotPong extends JApplet {
     public static final int HEIGHT = 800;
     // private canvas sector
     private PaintSurface canvas;
-    
+    // Public settings
     public void init() {
         this.setSize(WIDTH, HEIGHT);
         canvas = new PaintSurface();
