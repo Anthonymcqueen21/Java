@@ -6,7 +6,7 @@ import java.net.URL;
 public class MouseClicker extends JFrame {
     // Audio clicks
     AudioClip click;
-    
+    // Main function string main
     public static void main(String[] args) {
         
         new MouseClicker();
