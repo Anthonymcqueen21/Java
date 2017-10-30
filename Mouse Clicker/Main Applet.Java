@@ -4,7 +4,7 @@ import java.awt.*;
 import java.applet.*;
 import java.net.URL;
 public class MouseClicker extends JFrame {
-    
+    // Audio clicks
     AudioClip click;
     
     public static void main(String[] args) {
