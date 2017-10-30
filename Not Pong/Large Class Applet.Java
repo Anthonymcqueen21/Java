@@ -8,7 +8,7 @@ public class NotPong extends JApplet {
     // Initialize the height and width
     public static final int WIDTH = 400;
     public static final int HEIGHT = 800;
-    
+    // private canvas sector
     private PaintSurface canvas;
     
     public void init() {
