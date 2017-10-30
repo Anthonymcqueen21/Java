@@ -17,7 +17,7 @@ public class MouseClicker extends JFrame {
        this.setSize(400, 400);
        this.setTitle("Mouse Clicker");
        this.addMouseListener(new Clicker());
-       
+       // Clicking class gett the resource
        URL urlClick = MouseClicker.class.getResource("hit.wav");
        click = Applet.newAudioClip(urlClick);
        
