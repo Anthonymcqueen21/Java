@@ -5,7 +5,7 @@ import javax.swing.*;
 import java.awt.geom.*;
 import java.util.concurrent.*;
 public class NotPong extends JApplet {
-    
+    // Initialize the height and width
     public static final int WIDTH = 400;
     public static final int HEIGHT = 800;
     
