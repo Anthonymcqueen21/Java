@@ -11,6 +11,7 @@ class StringMethods {
         t = s.replace("Java", "C++");
         System.out.println(s);
         System.out.println(t);
+          // find another string
         // Concatenating string with another string
         u = s.concat("Java is Amazing");
         System.out.println(s);
