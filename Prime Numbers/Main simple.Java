@@ -6,7 +6,7 @@ class PrimeNumbers {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the number of prime number");
         n = in.nextInt();
-        
+        // Focusing on the prime number that is matched with "n"
         if(n >= 1) {
            System.out.println("First "+n+" prime numbers are :-");
            System.out.println(2);
