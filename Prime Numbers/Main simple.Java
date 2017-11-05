@@ -2,7 +2,7 @@ import java.util.*;
 class PrimeNumbers {
     public static void main(String args[]) {
         int n, status = 1, num = 3;
-        
+        // Finding the prime number
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the number of prime number");
         n = in.nextInt();
