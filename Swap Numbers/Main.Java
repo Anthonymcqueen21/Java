@@ -1,6 +1,7 @@
 import java.util.Scanner;
 class SwapNumbers {
    public static void main(String args[]) {
+      // Finding the x and y axis
       int x, y, temp;
       System.out.println("Enter x and y");
       Scanner in = new Scanner(System.in);
