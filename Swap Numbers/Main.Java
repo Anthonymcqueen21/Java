@@ -5,6 +5,7 @@ class SwapNumbers {
       int x, y, temp;
       System.out.println("Enter x and y");
       Scanner in = new Scanner(System.in);
+      // Next integer to find x and y
       x = in.nextInt();
       y = in.nextInt();
       System.out.println("Before swapping\nx = "+x+"\ny = "+y);
