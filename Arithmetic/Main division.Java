@@ -9,8 +9,8 @@ class Division {
         b = input.nextInt();
         // try block which blocks the code for a certain time.
         try {
-            result = a / b;
-            System.out.println("Result = " + result);
+          result = a / b;
+          System.out.println("Result = " + result);
         }
         // catch block which catches the code in time
         catch(ArithmeticException e) {
