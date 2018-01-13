@@ -1,12 +1,15 @@
 // Counting how many increments there are.
 // Class counters
 import java.util.Scanner;
+
 class Counter [
+    
     int count = 0;
     int increment() {
     int n=count;
     count = n + 1;
-    count = n + 2;
+    
+        count = n + 2;
 return n;
      }
 }
